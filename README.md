@@ -1,6 +1,6 @@
 # RestFull Api with MongoDB
-- Домен frontend: http://www.pelyan.ru http://www.pelyan.online
-- Домен backend: https://www.api.pelyan.ru https://www.api.pelyan.online
+- Домен frontend: https://www.pelyan.ru https://www.pelyan.online
+- Домен backend: http://www.api.pelyan.ru http://www.api.pelyan.online
 - Ip машины: 84.201.146.185
 
 > В проекте реализовано:
